@@ -1,7 +1,25 @@
+h3 {
+	text-align: center;
+	color: blue;
+}
 table, th, tr  {
 	border: 2px solid;
 
 }
-.table {
-	background-color: #9922ff;
+table {
+	align-items: center;
+	padding-left: 100px;
+	border-bottom-left-radius: 5px;
+}
+.dusk {
+	background-color: #a7aacc;
+}
+.dusk:hover {
+	background-color: #2a3fcd;
+}
+.dawn {
+	background-color: #4150b0;
+}
+.noon {
+	background-color: #475689;
 }
